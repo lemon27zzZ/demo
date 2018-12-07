@@ -8,6 +8,6 @@ public class ActionApplication {
 
     @RequestMapping("/hi")
     String hello(){
-        return "hi";
+        return "hello";
     }
 }
